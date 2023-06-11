@@ -2,10 +2,12 @@
     display: flex;
     justify-content: space-between;
 }
+
 .h2_title{
     color: blue;
     padding-left: 20px;
 }
+
 .nav_item{
     display: flex;
     justify-content: flex-end;
@@ -14,10 +16,17 @@
     font-weight: bold;
     padding-top: 10px;
 }
+
 .flex{
     display: flex;
     flex-direction: row-reverse;
 }
+
+.relative-img{
+    position: relative;
+    top: 200px;
+}
+
 .img{
     /* display: flex; */
     /* flex-direction: row-reverse; */
@@ -25,10 +34,12 @@
     max-height: 500px;
     z-index: 10;
 }
+
 .title{
     /* font-weight: bold; */
     font-size: 40px;
 }
+
 .blue{
     width: 80%;
     height: 200px;
