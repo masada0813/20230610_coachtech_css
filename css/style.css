@@ -5,7 +5,9 @@
 
 .h2_title{
     color: blue;
-    padding-left: 20px;
+    padding-left: 50px;
+    padding-top: 30px;
+    font-size: 30px;
 }
 
 .nav_item{
